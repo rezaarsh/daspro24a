@@ -1,0 +1,1001 @@
+,Usia,Gender,Jurusan,Asal Sekolah,Semester,Kelas,Mata Kuliah,Absen,IPK,Kategori
+0,18,P,TM,MA,1,Karyawan,Kimia,Sakit,2,Beasiswa
+1,19,L,TI,SMK,3,Karyawan,MTK,Izin,4,Beasiswa
+2,20,P,TI,SMK,2,Blended,Kimia,Hadir,4,Beasiswa
+3,19,P,TS,SMA,3,Reguler,Kimia,Sakit,3,Beasiswa
+4,20,L,TM,SMK,3,Karyawan,MTK,Izin,3,Beasiswa
+5,19,P,TI,SMK,7,Reguler,Kimia,Sakit,4,Beasiswa
+6,20,L,TE,SMK,4,Karyawan,Kimia,Hadir,2,Beasiswa
+7,21,L,TS,MA,7,Karyawan,Kimia,Sakit,4,Non Beasiswa
+8,19,P,TS,SMA,4,Karyawan,Kimia,Alfa,4,Beasiswa
+9,22,P,TI,SMK,6,Reguler,MTK,Sakit,3,Non Beasiswa
+10,18,P,TM,SMA,6,Reguler,Fisika,Izin,3,Non Beasiswa
+11,20,L,TI,MA,7,Karyawan,Kimia,Izin,2,Non Beasiswa
+12,20,L,TM,SMA,2,Blended,Kimia,Izin,4,Non Beasiswa
+13,18,L,TS,SMK,4,Reguler,Fisika,Alfa,4,Beasiswa
+14,21,L,TE,SMA,3,Blended,Kimia,Hadir,4,Beasiswa
+15,20,L,TI,SMA,3,Karyawan,Kimia,Izin,3,Non Beasiswa
+16,21,L,TM,SMA,3,Karyawan,Fisika,Alfa,3,Non Beasiswa
+17,19,L,TI,MA,6,Reguler,Fisika,Sakit,3,Non Beasiswa
+18,22,L,TM,SMA,7,Reguler,Fisika,Izin,4,Beasiswa
+19,18,L,TI,SMA,8,Karyawan,Kimia,Izin,2,Non Beasiswa
+20,20,L,TS,SMK,7,Karyawan,Fisika,Alfa,4,Beasiswa
+21,22,L,TI,SMA,3,Blended,Fisika,Alfa,3,Beasiswa
+22,22,P,TS,SMK,5,Karyawan,Kimia,Izin,2,Beasiswa
+23,21,L,TE,SMK,5,Blended,MTK,Sakit,3,Non Beasiswa
+24,19,L,TS,SMK,5,Reguler,Fisika,Sakit,4,Non Beasiswa
+25,21,P,TI,MA,8,Karyawan,Kimia,Hadir,2,Beasiswa
+26,21,P,TM,SMA,8,Blended,Kimia,Alfa,2,Non Beasiswa
+27,21,P,TS,SMK,3,Reguler,Kimia,Sakit,2,Non Beasiswa
+28,18,P,TI,MA,6,Blended,Fisika,Sakit,2,Beasiswa
+29,18,P,TI,SMA,4,Reguler,Fisika,Izin,4,Beasiswa
+30,19,P,TM,SMK,2,Karyawan,Fisika,Hadir,3,Beasiswa
+31,18,L,TM,SMK,6,Blended,Kimia,Alfa,2,Beasiswa
+32,19,L,TM,SMA,3,Reguler,Kimia,Izin,3,Non Beasiswa
+33,22,L,TI,SMA,1,Blended,Kimia,Izin,4,Beasiswa
+34,21,L,TS,SMA,3,Reguler,Fisika,Izin,2,Non Beasiswa
+35,22,L,TE,MA,3,Blended,Fisika,Hadir,2,Non Beasiswa
+36,21,L,TE,MA,8,Blended,Fisika,Sakit,2,Beasiswa
+37,20,P,TM,SMK,4,Reguler,Kimia,Sakit,2,Beasiswa
+38,21,P,TI,MA,3,Reguler,Kimia,Alfa,3,Non Beasiswa
+39,20,L,TM,MA,3,Blended,Fisika,Sakit,3,Beasiswa
+40,21,L,TE,SMA,2,Blended,Kimia,Alfa,2,Non Beasiswa
+41,21,L,TS,SMK,8,Reguler,MTK,Alfa,3,Beasiswa
+42,18,P,TM,SMK,3,Karyawan,MTK,Izin,2,Non Beasiswa
+43,19,P,TS,SMK,6,Karyawan,Fisika,Sakit,4,Beasiswa
+44,19,P,TM,SMK,3,Reguler,MTK,Alfa,3,Beasiswa
+45,21,L,TI,SMK,3,Reguler,MTK,Hadir,3,Beasiswa
+46,21,P,TS,MA,4,Blended,Kimia,Izin,3,Beasiswa
+47,19,P,TI,SMA,7,Blended,Fisika,Sakit,2,Non Beasiswa
+48,21,L,TE,SMK,1,Reguler,Kimia,Sakit,3,Non Beasiswa
+49,20,L,TS,MA,5,Blended,MTK,Alfa,3,Non Beasiswa
+50,22,P,TI,MA,8,Reguler,MTK,Izin,4,Beasiswa
+51,20,P,TE,SMK,3,Karyawan,MTK,Izin,2,Beasiswa
+52,18,P,TE,SMK,7,Karyawan,Kimia,Sakit,3,Beasiswa
+53,19,L,TE,SMK,4,Reguler,MTK,Alfa,3,Beasiswa
+54,20,P,TE,SMA,4,Blended,Fisika,Hadir,2,Beasiswa
+55,19,L,TS,SMK,7,Blended,Fisika,Sakit,4,Beasiswa
+56,18,P,TI,MA,3,Karyawan,Fisika,Sakit,3,Beasiswa
+57,18,L,TE,MA,5,Karyawan,Kimia,Hadir,4,Beasiswa
+58,20,P,TM,SMA,3,Blended,Kimia,Sakit,2,Beasiswa
+59,21,P,TM,MA,4,Karyawan,Fisika,Sakit,4,Non Beasiswa
+60,21,L,TM,SMA,1,Reguler,MTK,Izin,4,Non Beasiswa
+61,22,P,TS,SMK,3,Reguler,MTK,Izin,3,Non Beasiswa
+62,21,P,TI,SMA,2,Karyawan,Kimia,Alfa,3,Non Beasiswa
+63,18,P,TM,MA,8,Reguler,MTK,Hadir,4,Non Beasiswa
+64,18,L,TM,SMA,1,Blended,MTK,Hadir,4,Beasiswa
+65,19,L,TM,SMK,4,Karyawan,Kimia,Sakit,2,Non Beasiswa
+66,18,L,TS,SMA,4,Reguler,Fisika,Hadir,4,Non Beasiswa
+67,21,P,TS,SMA,2,Reguler,Kimia,Hadir,3,Beasiswa
+68,22,L,TE,SMK,7,Reguler,Fisika,Alfa,2,Beasiswa
+69,21,L,TI,MA,6,Reguler,MTK,Hadir,3,Non Beasiswa
+70,18,L,TE,SMA,6,Blended,MTK,Izin,2,Non Beasiswa
+71,21,P,TS,MA,1,Karyawan,Kimia,Izin,4,Non Beasiswa
+72,18,L,TI,MA,7,Karyawan,Fisika,Alfa,4,Beasiswa
+73,22,P,TM,SMK,5,Karyawan,Kimia,Sakit,3,Beasiswa
+74,19,L,TI,SMA,8,Karyawan,Kimia,Sakit,3,Non Beasiswa
+75,19,L,TI,SMA,3,Blended,Fisika,Izin,2,Beasiswa
+76,21,P,TM,MA,4,Blended,Kimia,Alfa,4,Beasiswa
+77,19,L,TS,SMA,4,Karyawan,Kimia,Izin,2,Non Beasiswa
+78,19,P,TI,SMA,1,Blended,Fisika,Sakit,2,Beasiswa
+79,21,L,TI,SMK,3,Karyawan,Fisika,Alfa,3,Non Beasiswa
+80,19,P,TI,SMK,6,Reguler,Fisika,Hadir,4,Beasiswa
+81,20,P,TI,SMK,3,Karyawan,Fisika,Sakit,4,Non Beasiswa
+82,18,P,TS,SMK,5,Blended,Kimia,Alfa,2,Beasiswa
+83,20,L,TI,SMA,8,Karyawan,MTK,Alfa,4,Beasiswa
+84,18,L,TS,SMK,3,Reguler,MTK,Izin,3,Non Beasiswa
+85,22,L,TE,SMK,3,Blended,Kimia,Izin,2,Non Beasiswa
+86,19,P,TS,SMA,3,Karyawan,MTK,Hadir,4,Non Beasiswa
+87,18,L,TM,SMK,3,Karyawan,Kimia,Alfa,4,Non Beasiswa
+88,21,L,TS,SMK,1,Reguler,Fisika,Hadir,4,Beasiswa
+89,21,P,TE,SMK,5,Blended,MTK,Hadir,3,Beasiswa
+90,18,P,TS,MA,4,Reguler,Fisika,Sakit,4,Beasiswa
+91,19,L,TI,MA,3,Blended,Fisika,Sakit,2,Beasiswa
+92,19,L,TI,SMK,1,Karyawan,Fisika,Alfa,2,Beasiswa
+93,21,P,TI,SMK,6,Reguler,Fisika,Izin,4,Non Beasiswa
+94,21,L,TS,SMA,3,Karyawan,MTK,Izin,2,Non Beasiswa
+95,21,L,TE,SMA,5,Karyawan,Kimia,Sakit,3,Beasiswa
+96,22,P,TM,SMK,4,Blended,MTK,Alfa,4,Non Beasiswa
+97,21,L,TE,SMA,6,Reguler,MTK,Hadir,3,Beasiswa
+98,18,P,TE,SMK,8,Karyawan,Kimia,Alfa,2,Non Beasiswa
+99,18,L,TE,SMA,8,Reguler,Kimia,Sakit,2,Beasiswa
+100,18,L,TE,SMA,1,Reguler,Kimia,Sakit,2,Non Beasiswa
+101,20,P,TS,SMA,7,Blended,Fisika,Alfa,3,Non Beasiswa
+102,21,L,TS,MA,3,Karyawan,Fisika,Hadir,3,Beasiswa
+103,18,P,TM,SMK,7,Karyawan,Fisika,Sakit,2,Non Beasiswa
+104,19,L,TM,SMK,7,Blended,MTK,Hadir,3,Beasiswa
+105,21,P,TI,SMK,4,Karyawan,Fisika,Alfa,2,Non Beasiswa
+106,18,L,TI,MA,2,Karyawan,Kimia,Sakit,3,Non Beasiswa
+107,20,P,TI,SMA,3,Reguler,Kimia,Sakit,3,Non Beasiswa
+108,22,L,TS,SMK,1,Blended,Fisika,Izin,2,Beasiswa
+109,18,P,TI,MA,8,Blended,Kimia,Alfa,4,Non Beasiswa
+110,19,P,TE,SMK,7,Karyawan,Kimia,Izin,2,Non Beasiswa
+111,22,P,TI,SMK,5,Reguler,MTK,Sakit,4,Beasiswa
+112,22,L,TS,SMA,4,Blended,Kimia,Izin,3,Non Beasiswa
+113,20,P,TE,SMA,2,Blended,Kimia,Alfa,4,Beasiswa
+114,18,P,TM,SMK,3,Blended,Kimia,Alfa,2,Non Beasiswa
+115,20,P,TS,SMA,7,Karyawan,Fisika,Hadir,4,Beasiswa
+116,19,P,TE,SMK,6,Reguler,MTK,Hadir,2,Beasiswa
+117,19,L,TE,SMA,6,Blended,Kimia,Izin,4,Non Beasiswa
+118,19,P,TS,MA,8,Reguler,MTK,Sakit,3,Non Beasiswa
+119,21,L,TS,SMA,8,Blended,Kimia,Hadir,4,Non Beasiswa
+120,19,P,TM,MA,1,Blended,Fisika,Alfa,3,Beasiswa
+121,22,P,TS,SMA,7,Karyawan,Kimia,Izin,3,Beasiswa
+122,22,L,TS,SMA,3,Karyawan,Fisika,Izin,4,Beasiswa
+123,22,L,TM,SMA,3,Blended,Kimia,Sakit,3,Non Beasiswa
+124,18,P,TM,SMA,5,Reguler,Fisika,Hadir,4,Non Beasiswa
+125,18,P,TS,MA,1,Reguler,MTK,Alfa,4,Beasiswa
+126,22,L,TS,SMK,3,Blended,Kimia,Izin,2,Non Beasiswa
+127,18,P,TI,SMA,3,Reguler,Fisika,Izin,3,Beasiswa
+128,20,P,TS,MA,2,Blended,Kimia,Alfa,3,Non Beasiswa
+129,19,P,TI,MA,3,Reguler,Fisika,Hadir,4,Beasiswa
+130,19,L,TE,MA,7,Karyawan,Kimia,Hadir,4,Non Beasiswa
+131,20,L,TE,SMK,6,Karyawan,Kimia,Alfa,3,Non Beasiswa
+132,21,P,TM,SMK,3,Karyawan,Kimia,Sakit,4,Beasiswa
+133,19,L,TE,MA,6,Blended,Fisika,Hadir,3,Beasiswa
+134,21,L,TS,SMA,7,Karyawan,Fisika,Izin,4,Beasiswa
+135,18,P,TM,SMA,6,Reguler,MTK,Izin,4,Non Beasiswa
+136,20,P,TM,SMK,8,Karyawan,Fisika,Alfa,2,Non Beasiswa
+137,20,L,TE,SMA,2,Reguler,MTK,Izin,2,Non Beasiswa
+138,18,P,TE,SMA,6,Blended,Fisika,Sakit,2,Non Beasiswa
+139,18,L,TE,MA,6,Karyawan,Kimia,Hadir,3,Non Beasiswa
+140,18,P,TM,MA,5,Reguler,MTK,Hadir,4,Beasiswa
+141,21,L,TI,SMA,4,Karyawan,MTK,Hadir,4,Beasiswa
+142,19,P,TS,MA,4,Karyawan,Kimia,Hadir,2,Non Beasiswa
+143,20,L,TS,SMK,1,Blended,MTK,Izin,4,Non Beasiswa
+144,21,L,TE,SMA,8,Reguler,MTK,Hadir,3,Beasiswa
+145,20,L,TM,SMK,7,Reguler,MTK,Sakit,2,Beasiswa
+146,21,L,TE,SMA,1,Blended,Kimia,Hadir,4,Non Beasiswa
+147,20,P,TI,SMA,7,Blended,Kimia,Izin,4,Non Beasiswa
+148,22,L,TM,MA,4,Karyawan,MTK,Alfa,4,Beasiswa
+149,19,P,TI,SMA,1,Karyawan,Fisika,Izin,3,Non Beasiswa
+150,20,P,TM,SMK,4,Karyawan,Fisika,Hadir,3,Beasiswa
+151,21,L,TM,MA,6,Blended,MTK,Hadir,3,Beasiswa
+152,21,P,TM,SMK,2,Blended,Kimia,Sakit,4,Beasiswa
+153,22,P,TM,SMK,7,Reguler,Fisika,Alfa,3,Beasiswa
+154,20,L,TE,SMK,6,Karyawan,MTK,Hadir,4,Non Beasiswa
+155,20,P,TS,MA,6,Blended,Fisika,Izin,3,Beasiswa
+156,22,L,TS,MA,5,Blended,Kimia,Sakit,2,Non Beasiswa
+157,19,P,TM,SMA,7,Reguler,MTK,Hadir,2,Beasiswa
+158,20,L,TM,SMA,5,Blended,MTK,Hadir,4,Non Beasiswa
+159,18,L,TI,SMK,1,Reguler,Kimia,Sakit,2,Non Beasiswa
+160,22,P,TI,SMA,2,Karyawan,MTK,Alfa,4,Non Beasiswa
+161,19,L,TM,SMA,3,Karyawan,MTK,Hadir,2,Non Beasiswa
+162,20,P,TM,SMA,1,Blended,Fisika,Hadir,4,Beasiswa
+163,21,L,TM,SMK,4,Reguler,Kimia,Hadir,4,Non Beasiswa
+164,22,P,TI,SMK,8,Reguler,Fisika,Izin,2,Non Beasiswa
+165,19,P,TM,MA,6,Blended,Fisika,Alfa,2,Non Beasiswa
+166,19,P,TM,SMK,4,Blended,MTK,Alfa,3,Beasiswa
+167,20,L,TM,MA,6,Karyawan,MTK,Hadir,4,Beasiswa
+168,18,P,TI,SMK,7,Reguler,Fisika,Alfa,4,Beasiswa
+169,20,L,TM,SMA,6,Karyawan,Fisika,Sakit,3,Non Beasiswa
+170,18,L,TM,SMA,3,Karyawan,MTK,Izin,3,Non Beasiswa
+171,19,P,TI,SMK,8,Reguler,MTK,Hadir,3,Beasiswa
+172,21,P,TI,SMK,1,Karyawan,Fisika,Hadir,2,Beasiswa
+173,21,L,TS,SMA,4,Blended,Fisika,Hadir,2,Non Beasiswa
+174,21,P,TM,SMA,3,Reguler,Fisika,Sakit,2,Beasiswa
+175,20,L,TI,SMA,4,Blended,MTK,Sakit,3,Beasiswa
+176,20,L,TM,SMK,6,Reguler,Fisika,Sakit,3,Beasiswa
+177,19,L,TE,SMA,1,Karyawan,MTK,Sakit,2,Non Beasiswa
+178,22,P,TE,MA,6,Reguler,Fisika,Alfa,3,Beasiswa
+179,19,P,TE,MA,8,Blended,MTK,Sakit,4,Beasiswa
+180,22,L,TI,MA,1,Reguler,MTK,Hadir,2,Beasiswa
+181,21,P,TE,MA,5,Reguler,Fisika,Alfa,3,Beasiswa
+182,18,P,TS,MA,4,Reguler,MTK,Alfa,4,Beasiswa
+183,18,P,TM,SMA,5,Karyawan,Kimia,Hadir,2,Non Beasiswa
+184,22,L,TS,MA,8,Reguler,Kimia,Hadir,2,Beasiswa
+185,19,L,TE,SMK,5,Blended,MTK,Alfa,4,Beasiswa
+186,18,L,TS,SMA,8,Karyawan,Kimia,Sakit,3,Beasiswa
+187,22,L,TS,SMA,2,Reguler,MTK,Sakit,2,Beasiswa
+188,19,L,TE,MA,7,Reguler,Kimia,Alfa,2,Beasiswa
+189,20,L,TS,SMK,6,Blended,Fisika,Izin,2,Beasiswa
+190,19,L,TE,SMK,2,Blended,Kimia,Hadir,2,Beasiswa
+191,21,P,TM,MA,4,Reguler,MTK,Hadir,3,Beasiswa
+192,21,L,TM,SMA,8,Blended,Fisika,Sakit,4,Non Beasiswa
+193,20,P,TM,SMK,4,Reguler,Kimia,Izin,4,Non Beasiswa
+194,22,P,TS,MA,2,Blended,Kimia,Hadir,2,Non Beasiswa
+195,19,P,TS,SMK,1,Karyawan,MTK,Alfa,2,Beasiswa
+196,19,L,TM,MA,3,Blended,MTK,Izin,4,Beasiswa
+197,18,P,TI,SMK,4,Karyawan,Kimia,Izin,2,Beasiswa
+198,18,L,TE,MA,2,Reguler,Kimia,Hadir,3,Beasiswa
+199,20,P,TS,SMK,6,Karyawan,Fisika,Sakit,3,Non Beasiswa
+200,22,P,TS,MA,6,Blended,MTK,Sakit,4,Non Beasiswa
+201,19,L,TE,MA,7,Blended,Kimia,Alfa,3,Non Beasiswa
+202,22,L,TM,SMK,5,Karyawan,Kimia,Hadir,3,Non Beasiswa
+203,19,L,TE,MA,4,Karyawan,MTK,Sakit,3,Non Beasiswa
+204,22,P,TI,MA,7,Blended,Fisika,Sakit,2,Beasiswa
+205,18,P,TS,MA,2,Reguler,Kimia,Izin,2,Non Beasiswa
+206,22,L,TS,MA,6,Karyawan,Fisika,Sakit,2,Non Beasiswa
+207,19,P,TM,SMA,6,Karyawan,MTK,Sakit,4,Non Beasiswa
+208,18,L,TM,SMA,5,Reguler,MTK,Izin,3,Non Beasiswa
+209,21,P,TS,MA,6,Blended,Kimia,Sakit,4,Beasiswa
+210,22,L,TI,MA,8,Reguler,Kimia,Izin,4,Non Beasiswa
+211,22,L,TS,SMA,5,Reguler,Kimia,Sakit,3,Non Beasiswa
+212,20,P,TI,SMA,2,Reguler,Fisika,Alfa,3,Beasiswa
+213,18,L,TI,MA,6,Blended,Kimia,Hadir,2,Beasiswa
+214,21,P,TI,SMA,4,Karyawan,MTK,Hadir,3,Beasiswa
+215,21,L,TE,SMA,3,Reguler,MTK,Alfa,4,Non Beasiswa
+216,20,L,TM,MA,3,Karyawan,MTK,Sakit,3,Non Beasiswa
+217,18,P,TS,MA,3,Reguler,Kimia,Alfa,3,Beasiswa
+218,18,L,TS,MA,7,Reguler,Fisika,Izin,2,Non Beasiswa
+219,22,P,TE,SMA,4,Karyawan,Fisika,Alfa,4,Beasiswa
+220,18,P,TM,SMK,4,Karyawan,Kimia,Sakit,3,Beasiswa
+221,19,L,TS,SMA,4,Reguler,Fisika,Izin,4,Beasiswa
+222,22,P,TE,SMK,2,Blended,MTK,Hadir,4,Non Beasiswa
+223,21,P,TS,MA,2,Karyawan,Kimia,Hadir,3,Beasiswa
+224,18,P,TM,SMA,2,Karyawan,Fisika,Alfa,3,Non Beasiswa
+225,18,P,TM,MA,1,Reguler,Kimia,Alfa,4,Beasiswa
+226,18,L,TS,SMK,1,Reguler,Kimia,Alfa,2,Non Beasiswa
+227,22,L,TS,MA,5,Blended,Fisika,Alfa,4,Beasiswa
+228,19,L,TE,SMK,6,Karyawan,Kimia,Hadir,4,Non Beasiswa
+229,21,P,TE,SMA,6,Karyawan,Kimia,Hadir,3,Non Beasiswa
+230,19,P,TE,SMA,1,Reguler,Fisika,Alfa,4,Beasiswa
+231,21,L,TE,SMA,6,Blended,Fisika,Hadir,4,Beasiswa
+232,22,P,TM,MA,4,Karyawan,Fisika,Alfa,3,Non Beasiswa
+233,22,P,TE,MA,5,Blended,Fisika,Alfa,3,Non Beasiswa
+234,22,P,TM,SMA,5,Blended,MTK,Alfa,4,Beasiswa
+235,18,P,TE,MA,8,Karyawan,Fisika,Hadir,4,Beasiswa
+236,19,L,TI,SMK,7,Reguler,Fisika,Izin,3,Non Beasiswa
+237,20,L,TI,SMA,1,Blended,MTK,Alfa,2,Non Beasiswa
+238,22,P,TE,MA,7,Blended,Fisika,Izin,2,Beasiswa
+239,21,P,TI,SMK,7,Blended,Fisika,Izin,2,Non Beasiswa
+240,22,L,TS,MA,5,Reguler,Kimia,Izin,4,Beasiswa
+241,18,L,TM,SMA,8,Karyawan,Fisika,Sakit,2,Beasiswa
+242,19,P,TS,SMA,5,Karyawan,Fisika,Hadir,4,Beasiswa
+243,22,L,TI,SMA,3,Reguler,MTK,Hadir,4,Non Beasiswa
+244,21,L,TM,MA,3,Blended,Fisika,Izin,3,Beasiswa
+245,20,P,TE,SMA,4,Karyawan,Fisika,Alfa,4,Beasiswa
+246,21,L,TM,SMK,5,Karyawan,Kimia,Sakit,2,Beasiswa
+247,22,L,TM,SMK,3,Reguler,MTK,Hadir,4,Beasiswa
+248,20,L,TM,SMA,5,Blended,Fisika,Alfa,4,Beasiswa
+249,22,P,TE,SMK,6,Blended,MTK,Sakit,4,Non Beasiswa
+250,21,P,TS,SMA,7,Blended,MTK,Hadir,2,Non Beasiswa
+251,20,P,TI,SMK,2,Karyawan,MTK,Alfa,4,Non Beasiswa
+252,20,L,TE,SMK,8,Reguler,Kimia,Hadir,4,Beasiswa
+253,20,P,TM,MA,3,Reguler,Fisika,Izin,4,Beasiswa
+254,20,P,TS,SMK,4,Reguler,MTK,Sakit,3,Non Beasiswa
+255,19,L,TS,SMK,7,Karyawan,Fisika,Alfa,2,Non Beasiswa
+256,19,L,TS,SMK,1,Blended,Kimia,Alfa,3,Non Beasiswa
+257,21,L,TE,SMA,6,Reguler,Kimia,Sakit,3,Non Beasiswa
+258,22,P,TE,SMA,3,Karyawan,Fisika,Sakit,2,Beasiswa
+259,19,L,TE,SMA,5,Karyawan,MTK,Sakit,2,Beasiswa
+260,21,P,TI,SMK,8,Reguler,Fisika,Sakit,4,Beasiswa
+261,18,P,TM,SMA,6,Karyawan,Fisika,Izin,4,Non Beasiswa
+262,18,P,TE,MA,2,Reguler,MTK,Sakit,4,Non Beasiswa
+263,22,L,TI,SMA,3,Reguler,Kimia,Alfa,3,Non Beasiswa
+264,20,P,TE,MA,3,Blended,Kimia,Izin,3,Non Beasiswa
+265,20,L,TM,SMA,2,Blended,MTK,Hadir,3,Non Beasiswa
+266,19,P,TE,MA,1,Reguler,Fisika,Alfa,3,Non Beasiswa
+267,18,L,TS,MA,5,Karyawan,MTK,Hadir,2,Beasiswa
+268,18,L,TS,SMK,4,Reguler,MTK,Izin,3,Non Beasiswa
+269,19,P,TE,MA,7,Reguler,Fisika,Hadir,3,Non Beasiswa
+270,18,P,TI,SMA,7,Karyawan,Fisika,Alfa,4,Non Beasiswa
+271,18,P,TE,SMA,6,Blended,MTK,Alfa,2,Non Beasiswa
+272,22,L,TM,SMA,1,Reguler,Fisika,Alfa,2,Beasiswa
+273,18,P,TI,MA,5,Reguler,Fisika,Alfa,2,Beasiswa
+274,18,P,TS,SMK,2,Reguler,MTK,Hadir,3,Non Beasiswa
+275,21,L,TS,SMA,7,Blended,MTK,Hadir,2,Beasiswa
+276,18,P,TI,SMA,1,Blended,Kimia,Hadir,4,Non Beasiswa
+277,19,L,TM,SMK,8,Karyawan,Fisika,Sakit,4,Beasiswa
+278,20,P,TI,SMK,1,Karyawan,Kimia,Sakit,2,Beasiswa
+279,21,L,TS,MA,3,Reguler,Kimia,Hadir,3,Non Beasiswa
+280,20,P,TI,MA,3,Reguler,Kimia,Sakit,2,Non Beasiswa
+281,22,L,TI,SMK,8,Blended,Kimia,Sakit,2,Non Beasiswa
+282,20,P,TM,MA,7,Karyawan,Fisika,Alfa,3,Non Beasiswa
+283,21,P,TE,SMA,6,Reguler,Kimia,Hadir,4,Non Beasiswa
+284,20,L,TM,SMA,8,Reguler,MTK,Alfa,3,Beasiswa
+285,19,L,TE,SMK,6,Reguler,Fisika,Hadir,4,Non Beasiswa
+286,21,P,TE,SMA,2,Blended,Fisika,Hadir,4,Beasiswa
+287,21,P,TS,SMA,7,Reguler,MTK,Alfa,4,Beasiswa
+288,22,L,TI,SMK,4,Reguler,Fisika,Izin,4,Non Beasiswa
+289,19,L,TI,SMK,4,Reguler,Fisika,Alfa,4,Non Beasiswa
+290,19,P,TE,MA,8,Karyawan,MTK,Hadir,3,Beasiswa
+291,20,P,TE,SMK,4,Karyawan,MTK,Alfa,4,Non Beasiswa
+292,19,L,TE,SMA,8,Reguler,Kimia,Sakit,4,Non Beasiswa
+293,21,P,TM,MA,8,Reguler,Kimia,Hadir,2,Beasiswa
+294,20,P,TS,SMK,3,Karyawan,MTK,Sakit,4,Beasiswa
+295,18,P,TE,SMK,7,Karyawan,Kimia,Sakit,2,Beasiswa
+296,19,L,TM,MA,4,Blended,Kimia,Izin,2,Non Beasiswa
+297,18,P,TI,MA,3,Blended,Fisika,Izin,3,Beasiswa
+298,20,L,TI,SMA,6,Blended,MTK,Alfa,3,Beasiswa
+299,21,L,TE,SMA,8,Reguler,Kimia,Hadir,2,Beasiswa
+300,18,L,TE,MA,1,Karyawan,Kimia,Sakit,3,Beasiswa
+301,19,P,TM,SMK,2,Karyawan,MTK,Sakit,4,Beasiswa
+302,22,L,TS,MA,6,Reguler,MTK,Alfa,2,Beasiswa
+303,21,P,TS,SMK,2,Blended,Fisika,Sakit,3,Non Beasiswa
+304,20,L,TS,SMA,6,Karyawan,MTK,Hadir,4,Beasiswa
+305,22,L,TI,MA,1,Blended,MTK,Hadir,2,Beasiswa
+306,19,L,TE,SMK,4,Blended,Kimia,Hadir,3,Non Beasiswa
+307,22,L,TM,SMA,5,Reguler,MTK,Sakit,2,Beasiswa
+308,20,P,TM,MA,8,Karyawan,Fisika,Izin,4,Beasiswa
+309,20,L,TM,SMA,4,Blended,MTK,Sakit,3,Beasiswa
+310,19,P,TM,SMK,5,Blended,Fisika,Hadir,3,Beasiswa
+311,20,L,TI,SMA,3,Karyawan,Fisika,Alfa,2,Non Beasiswa
+312,22,L,TS,MA,8,Reguler,Fisika,Sakit,3,Beasiswa
+313,22,P,TM,SMK,6,Blended,Fisika,Alfa,3,Non Beasiswa
+314,21,P,TE,SMK,6,Reguler,Kimia,Izin,4,Non Beasiswa
+315,22,P,TS,SMK,2,Karyawan,Fisika,Izin,2,Non Beasiswa
+316,18,P,TE,SMK,5,Reguler,Kimia,Sakit,3,Beasiswa
+317,20,P,TI,SMA,6,Blended,MTK,Sakit,2,Non Beasiswa
+318,20,P,TS,MA,1,Blended,MTK,Sakit,2,Beasiswa
+319,22,L,TM,SMK,7,Reguler,Fisika,Hadir,4,Non Beasiswa
+320,20,L,TM,MA,7,Karyawan,MTK,Alfa,4,Non Beasiswa
+321,18,L,TS,MA,5,Reguler,MTK,Hadir,4,Non Beasiswa
+322,21,L,TS,SMK,1,Karyawan,MTK,Hadir,2,Non Beasiswa
+323,21,P,TE,MA,8,Karyawan,Fisika,Sakit,2,Non Beasiswa
+324,19,L,TI,SMK,6,Blended,Fisika,Alfa,3,Non Beasiswa
+325,18,P,TE,SMK,8,Reguler,Kimia,Hadir,2,Beasiswa
+326,22,P,TE,SMK,3,Reguler,Fisika,Hadir,2,Non Beasiswa
+327,20,P,TE,MA,4,Karyawan,Fisika,Hadir,3,Beasiswa
+328,21,P,TE,SMK,3,Karyawan,Kimia,Izin,4,Beasiswa
+329,20,P,TE,SMA,6,Blended,Fisika,Hadir,4,Non Beasiswa
+330,20,P,TI,SMK,2,Blended,Kimia,Izin,4,Non Beasiswa
+331,19,P,TS,SMK,3,Reguler,MTK,Alfa,3,Beasiswa
+332,21,L,TM,SMA,7,Blended,Kimia,Izin,2,Beasiswa
+333,20,L,TE,SMK,4,Reguler,Kimia,Alfa,3,Beasiswa
+334,22,P,TM,SMA,5,Reguler,Kimia,Hadir,2,Beasiswa
+335,21,P,TM,SMA,1,Reguler,MTK,Izin,2,Non Beasiswa
+336,19,L,TI,SMA,5,Blended,MTK,Izin,4,Beasiswa
+337,21,L,TM,MA,4,Blended,MTK,Alfa,2,Beasiswa
+338,20,L,TI,SMA,6,Blended,Kimia,Sakit,4,Non Beasiswa
+339,21,P,TI,SMA,6,Reguler,Fisika,Izin,3,Non Beasiswa
+340,19,P,TI,SMA,6,Blended,Kimia,Alfa,3,Beasiswa
+341,21,P,TS,SMA,1,Blended,MTK,Alfa,3,Beasiswa
+342,21,L,TS,SMA,6,Reguler,Kimia,Alfa,3,Non Beasiswa
+343,18,P,TI,MA,8,Blended,Fisika,Hadir,4,Non Beasiswa
+344,21,P,TS,MA,4,Karyawan,MTK,Izin,2,Non Beasiswa
+345,20,P,TM,SMK,1,Blended,Kimia,Izin,2,Non Beasiswa
+346,20,P,TE,SMK,6,Blended,Kimia,Hadir,2,Non Beasiswa
+347,20,P,TS,SMK,6,Reguler,Kimia,Izin,4,Non Beasiswa
+348,22,L,TI,SMK,6,Karyawan,MTK,Sakit,2,Non Beasiswa
+349,18,L,TM,MA,3,Karyawan,Fisika,Izin,3,Beasiswa
+350,22,L,TS,SMK,8,Reguler,Kimia,Sakit,2,Beasiswa
+351,21,P,TM,SMA,5,Blended,Kimia,Hadir,4,Non Beasiswa
+352,22,L,TS,SMA,4,Karyawan,MTK,Sakit,3,Non Beasiswa
+353,20,L,TS,SMK,8,Blended,Kimia,Alfa,4,Non Beasiswa
+354,20,P,TM,SMA,7,Blended,Kimia,Izin,4,Non Beasiswa
+355,21,L,TE,SMA,6,Reguler,Kimia,Alfa,4,Non Beasiswa
+356,19,L,TM,MA,8,Blended,Kimia,Hadir,4,Beasiswa
+357,22,L,TE,MA,1,Karyawan,Kimia,Hadir,2,Beasiswa
+358,20,L,TE,SMK,1,Karyawan,MTK,Hadir,2,Non Beasiswa
+359,21,P,TM,MA,3,Blended,MTK,Alfa,2,Non Beasiswa
+360,22,L,TM,MA,1,Blended,Fisika,Sakit,4,Beasiswa
+361,21,P,TM,SMK,1,Karyawan,Fisika,Alfa,3,Beasiswa
+362,22,L,TM,MA,7,Blended,Kimia,Izin,4,Beasiswa
+363,22,L,TI,MA,1,Blended,MTK,Hadir,3,Non Beasiswa
+364,21,P,TI,SMK,8,Reguler,Fisika,Sakit,3,Non Beasiswa
+365,20,L,TM,SMK,2,Blended,Fisika,Hadir,3,Non Beasiswa
+366,18,L,TM,SMK,3,Karyawan,Fisika,Sakit,2,Beasiswa
+367,20,P,TM,MA,2,Blended,Kimia,Alfa,2,Non Beasiswa
+368,18,P,TI,SMA,1,Blended,MTK,Sakit,2,Beasiswa
+369,18,L,TM,SMA,2,Blended,MTK,Sakit,4,Beasiswa
+370,21,L,TI,SMA,1,Karyawan,MTK,Hadir,3,Non Beasiswa
+371,20,P,TM,MA,3,Blended,Fisika,Alfa,3,Beasiswa
+372,22,P,TS,SMA,3,Blended,Kimia,Alfa,4,Beasiswa
+373,19,L,TM,SMA,8,Blended,Kimia,Sakit,4,Beasiswa
+374,20,L,TI,SMK,1,Reguler,Fisika,Alfa,4,Beasiswa
+375,21,L,TM,MA,1,Karyawan,Kimia,Hadir,3,Non Beasiswa
+376,18,P,TE,SMK,6,Reguler,Fisika,Izin,4,Non Beasiswa
+377,18,P,TI,MA,4,Karyawan,Fisika,Alfa,2,Beasiswa
+378,20,L,TS,MA,3,Karyawan,Kimia,Sakit,2,Beasiswa
+379,21,L,TI,MA,8,Karyawan,Fisika,Alfa,3,Non Beasiswa
+380,22,P,TM,SMA,5,Karyawan,MTK,Sakit,4,Non Beasiswa
+381,19,P,TS,SMA,6,Karyawan,Fisika,Hadir,4,Beasiswa
+382,20,L,TS,SMA,8,Karyawan,Kimia,Alfa,3,Non Beasiswa
+383,18,L,TS,SMK,6,Blended,Fisika,Izin,2,Non Beasiswa
+384,19,P,TE,SMK,3,Karyawan,Fisika,Sakit,4,Beasiswa
+385,20,L,TI,MA,8,Reguler,Fisika,Hadir,4,Beasiswa
+386,20,P,TI,SMK,8,Reguler,Fisika,Sakit,3,Non Beasiswa
+387,19,P,TM,MA,2,Reguler,Kimia,Alfa,4,Beasiswa
+388,18,P,TI,MA,3,Karyawan,MTK,Sakit,3,Non Beasiswa
+389,22,P,TS,MA,2,Blended,Fisika,Sakit,2,Beasiswa
+390,18,L,TS,SMA,2,Blended,Kimia,Izin,3,Non Beasiswa
+391,21,L,TM,MA,6,Karyawan,MTK,Sakit,4,Beasiswa
+392,22,L,TS,MA,2,Reguler,MTK,Alfa,2,Non Beasiswa
+393,19,P,TM,MA,6,Karyawan,Fisika,Hadir,2,Beasiswa
+394,22,L,TI,MA,4,Blended,Kimia,Alfa,2,Non Beasiswa
+395,20,L,TS,MA,6,Karyawan,Kimia,Alfa,4,Beasiswa
+396,19,L,TI,SMK,5,Reguler,Fisika,Hadir,2,Beasiswa
+397,22,L,TS,SMA,5,Blended,MTK,Izin,4,Beasiswa
+398,18,L,TE,MA,1,Blended,Fisika,Hadir,3,Beasiswa
+399,21,L,TM,SMA,2,Reguler,Fisika,Alfa,4,Non Beasiswa
+400,21,P,TE,MA,7,Karyawan,Kimia,Sakit,2,Beasiswa
+401,18,P,TM,SMK,1,Blended,Kimia,Hadir,3,Beasiswa
+402,20,P,TI,SMK,2,Reguler,MTK,Hadir,4,Beasiswa
+403,22,P,TS,SMK,8,Karyawan,Fisika,Sakit,3,Non Beasiswa
+404,19,P,TS,MA,2,Karyawan,Kimia,Hadir,4,Beasiswa
+405,22,P,TI,MA,7,Reguler,Kimia,Alfa,3,Beasiswa
+406,19,L,TE,MA,8,Karyawan,Fisika,Izin,4,Non Beasiswa
+407,18,L,TE,SMA,6,Reguler,Fisika,Hadir,3,Non Beasiswa
+408,19,P,TS,MA,7,Karyawan,Kimia,Hadir,2,Beasiswa
+409,22,L,TE,SMK,7,Karyawan,MTK,Izin,4,Beasiswa
+410,19,P,TI,SMA,8,Karyawan,MTK,Alfa,3,Non Beasiswa
+411,20,L,TS,MA,1,Blended,MTK,Hadir,2,Beasiswa
+412,19,L,TM,SMK,8,Reguler,MTK,Izin,4,Beasiswa
+413,22,P,TS,SMA,5,Reguler,Kimia,Sakit,4,Non Beasiswa
+414,22,P,TS,SMA,3,Blended,Fisika,Hadir,4,Non Beasiswa
+415,19,L,TI,MA,8,Reguler,Kimia,Alfa,2,Beasiswa
+416,21,L,TS,SMA,6,Reguler,Kimia,Hadir,2,Non Beasiswa
+417,20,P,TE,SMA,3,Karyawan,Fisika,Sakit,3,Beasiswa
+418,21,P,TE,MA,5,Reguler,Kimia,Sakit,4,Non Beasiswa
+419,20,L,TE,MA,5,Karyawan,MTK,Izin,3,Non Beasiswa
+420,22,L,TE,SMK,7,Reguler,Kimia,Alfa,4,Beasiswa
+421,19,L,TS,MA,7,Reguler,MTK,Izin,2,Non Beasiswa
+422,19,P,TS,SMK,1,Blended,Fisika,Alfa,2,Beasiswa
+423,20,P,TE,SMA,3,Blended,Fisika,Hadir,2,Beasiswa
+424,22,P,TM,MA,4,Karyawan,MTK,Izin,4,Beasiswa
+425,22,P,TI,MA,5,Reguler,Fisika,Hadir,2,Beasiswa
+426,19,L,TE,SMK,2,Karyawan,Fisika,Izin,4,Non Beasiswa
+427,19,P,TI,SMK,2,Karyawan,Kimia,Sakit,3,Beasiswa
+428,18,P,TE,SMA,2,Reguler,Kimia,Izin,3,Non Beasiswa
+429,21,P,TE,SMA,4,Blended,MTK,Alfa,3,Beasiswa
+430,18,P,TI,SMA,1,Karyawan,Kimia,Alfa,2,Beasiswa
+431,20,P,TM,SMK,7,Blended,Kimia,Sakit,3,Beasiswa
+432,19,L,TS,SMA,2,Reguler,MTK,Izin,2,Non Beasiswa
+433,19,P,TS,SMA,7,Reguler,MTK,Alfa,3,Beasiswa
+434,19,P,TM,SMA,4,Reguler,Kimia,Sakit,3,Beasiswa
+435,18,L,TE,SMK,6,Karyawan,Kimia,Izin,3,Non Beasiswa
+436,19,P,TI,SMK,2,Karyawan,Kimia,Sakit,4,Non Beasiswa
+437,20,P,TE,MA,3,Blended,Kimia,Izin,4,Non Beasiswa
+438,22,P,TE,SMK,3,Blended,MTK,Izin,3,Non Beasiswa
+439,22,P,TS,SMA,8,Blended,Kimia,Hadir,2,Beasiswa
+440,18,P,TM,MA,5,Karyawan,MTK,Izin,4,Non Beasiswa
+441,18,P,TI,MA,6,Karyawan,Kimia,Izin,4,Non Beasiswa
+442,18,P,TE,SMK,1,Karyawan,MTK,Sakit,2,Beasiswa
+443,21,P,TE,SMK,4,Reguler,MTK,Sakit,4,Beasiswa
+444,22,L,TI,SMK,7,Blended,Kimia,Hadir,4,Beasiswa
+445,18,L,TI,SMK,6,Blended,Fisika,Hadir,3,Non Beasiswa
+446,20,L,TM,SMA,4,Blended,Kimia,Izin,3,Non Beasiswa
+447,19,P,TM,SMA,1,Blended,Fisika,Alfa,4,Beasiswa
+448,21,L,TI,MA,2,Karyawan,MTK,Hadir,3,Beasiswa
+449,22,P,TE,SMA,1,Blended,MTK,Izin,4,Non Beasiswa
+450,21,P,TE,MA,7,Reguler,Fisika,Alfa,4,Non Beasiswa
+451,21,P,TM,SMK,4,Blended,MTK,Alfa,3,Non Beasiswa
+452,21,L,TM,MA,2,Reguler,MTK,Sakit,3,Beasiswa
+453,19,L,TE,SMA,1,Reguler,MTK,Sakit,4,Non Beasiswa
+454,21,L,TI,SMA,6,Reguler,MTK,Hadir,2,Non Beasiswa
+455,18,L,TI,MA,7,Reguler,Kimia,Hadir,3,Non Beasiswa
+456,21,P,TS,SMA,8,Reguler,MTK,Alfa,2,Beasiswa
+457,20,P,TS,SMA,6,Blended,Kimia,Izin,2,Non Beasiswa
+458,21,P,TM,SMK,8,Reguler,Fisika,Sakit,3,Non Beasiswa
+459,18,P,TE,MA,3,Reguler,MTK,Sakit,3,Beasiswa
+460,21,P,TM,SMA,6,Blended,MTK,Hadir,2,Non Beasiswa
+461,19,L,TM,MA,2,Karyawan,MTK,Hadir,4,Beasiswa
+462,21,P,TM,SMA,8,Blended,Kimia,Sakit,2,Beasiswa
+463,20,L,TS,MA,5,Reguler,Kimia,Izin,4,Beasiswa
+464,19,L,TE,MA,3,Reguler,Kimia,Hadir,2,Beasiswa
+465,20,P,TS,SMK,8,Karyawan,Kimia,Alfa,2,Non Beasiswa
+466,20,P,TI,SMK,2,Karyawan,Fisika,Sakit,3,Non Beasiswa
+467,20,L,TM,SMA,1,Karyawan,MTK,Sakit,2,Beasiswa
+468,21,L,TM,SMK,3,Blended,Fisika,Sakit,3,Non Beasiswa
+469,18,P,TI,SMA,3,Blended,Kimia,Izin,2,Beasiswa
+470,19,L,TE,SMA,1,Blended,Fisika,Hadir,3,Non Beasiswa
+471,19,P,TS,SMA,7,Karyawan,MTK,Alfa,2,Non Beasiswa
+472,19,L,TI,SMA,7,Reguler,Fisika,Hadir,2,Non Beasiswa
+473,22,P,TS,MA,2,Karyawan,Fisika,Alfa,3,Non Beasiswa
+474,19,P,TS,MA,8,Blended,Fisika,Sakit,2,Non Beasiswa
+475,19,L,TM,MA,7,Karyawan,MTK,Izin,2,Beasiswa
+476,19,P,TS,SMK,7,Reguler,Kimia,Izin,3,Beasiswa
+477,19,P,TI,MA,6,Karyawan,MTK,Hadir,4,Beasiswa
+478,18,P,TM,SMA,4,Karyawan,MTK,Sakit,2,Beasiswa
+479,21,P,TI,MA,5,Karyawan,Kimia,Izin,4,Beasiswa
+480,18,L,TM,SMK,7,Karyawan,MTK,Izin,2,Non Beasiswa
+481,19,L,TE,MA,5,Blended,MTK,Izin,4,Beasiswa
+482,18,P,TE,MA,7,Blended,MTK,Alfa,3,Beasiswa
+483,20,L,TS,SMA,7,Blended,MTK,Hadir,2,Beasiswa
+484,20,P,TS,SMK,8,Reguler,Fisika,Izin,4,Beasiswa
+485,21,P,TS,MA,2,Karyawan,Kimia,Alfa,4,Beasiswa
+486,22,L,TS,MA,6,Reguler,MTK,Izin,4,Non Beasiswa
+487,21,L,TE,MA,8,Karyawan,MTK,Hadir,4,Non Beasiswa
+488,19,P,TM,SMA,8,Blended,Kimia,Alfa,4,Non Beasiswa
+489,22,P,TM,SMK,5,Reguler,Fisika,Hadir,3,Beasiswa
+490,18,L,TS,SMA,8,Blended,MTK,Hadir,2,Beasiswa
+491,19,L,TE,SMK,4,Karyawan,MTK,Izin,2,Non Beasiswa
+492,18,L,TM,MA,6,Karyawan,MTK,Hadir,3,Beasiswa
+493,19,P,TM,SMA,3,Blended,MTK,Hadir,3,Beasiswa
+494,22,P,TE,SMA,2,Blended,Fisika,Izin,3,Beasiswa
+495,20,L,TM,SMK,5,Reguler,Kimia,Izin,4,Beasiswa
+496,18,P,TI,SMA,2,Blended,MTK,Izin,4,Non Beasiswa
+497,19,P,TM,SMK,1,Karyawan,Fisika,Sakit,3,Beasiswa
+498,20,P,TM,SMK,3,Karyawan,Fisika,Hadir,3,Beasiswa
+499,21,L,TM,SMA,4,Reguler,Fisika,Hadir,3,Non Beasiswa
+500,22,L,TE,SMA,5,Karyawan,Fisika,Alfa,4,Beasiswa
+501,21,L,TI,MA,8,Blended,MTK,Sakit,3,Beasiswa
+502,19,P,TE,MA,6,Karyawan,Fisika,Izin,2,Non Beasiswa
+503,19,P,TE,SMA,1,Blended,MTK,Sakit,3,Non Beasiswa
+504,21,P,TI,SMK,5,Blended,Kimia,Alfa,3,Non Beasiswa
+505,21,L,TI,MA,8,Reguler,MTK,Izin,2,Non Beasiswa
+506,21,L,TS,SMA,8,Karyawan,Fisika,Izin,3,Non Beasiswa
+507,18,L,TI,MA,5,Blended,Kimia,Izin,3,Non Beasiswa
+508,20,L,TE,SMK,6,Blended,Fisika,Hadir,3,Beasiswa
+509,18,P,TS,SMK,6,Reguler,Kimia,Alfa,2,Non Beasiswa
+510,22,P,TI,SMA,3,Blended,Kimia,Hadir,4,Non Beasiswa
+511,20,P,TI,SMK,8,Blended,Kimia,Alfa,2,Non Beasiswa
+512,22,L,TS,SMA,8,Karyawan,Fisika,Alfa,3,Non Beasiswa
+513,22,P,TS,SMK,3,Reguler,Fisika,Alfa,3,Beasiswa
+514,18,P,TE,SMK,7,Blended,Fisika,Izin,4,Non Beasiswa
+515,22,L,TS,SMK,5,Blended,Fisika,Izin,4,Beasiswa
+516,18,L,TI,SMK,1,Karyawan,MTK,Izin,4,Non Beasiswa
+517,19,L,TE,SMK,1,Reguler,MTK,Alfa,2,Beasiswa
+518,18,L,TM,MA,6,Karyawan,Kimia,Alfa,4,Non Beasiswa
+519,21,P,TM,SMK,8,Blended,Kimia,Hadir,4,Non Beasiswa
+520,21,P,TI,SMA,4,Blended,MTK,Izin,2,Non Beasiswa
+521,18,L,TI,SMA,7,Reguler,Kimia,Alfa,4,Beasiswa
+522,21,L,TE,SMK,2,Karyawan,MTK,Alfa,3,Beasiswa
+523,19,P,TM,SMA,3,Karyawan,Fisika,Alfa,2,Beasiswa
+524,20,L,TI,MA,5,Karyawan,Kimia,Izin,4,Beasiswa
+525,21,P,TI,SMK,1,Karyawan,Kimia,Sakit,2,Beasiswa
+526,20,P,TM,SMK,6,Blended,Fisika,Alfa,4,Non Beasiswa
+527,19,P,TI,SMA,3,Blended,MTK,Izin,4,Beasiswa
+528,20,P,TE,MA,3,Karyawan,Fisika,Izin,2,Beasiswa
+529,21,P,TI,SMK,1,Karyawan,Fisika,Sakit,4,Non Beasiswa
+530,20,L,TS,SMA,4,Karyawan,Fisika,Sakit,3,Beasiswa
+531,20,L,TM,SMK,2,Karyawan,Fisika,Alfa,3,Beasiswa
+532,19,L,TI,MA,8,Karyawan,MTK,Alfa,3,Beasiswa
+533,18,P,TS,SMK,2,Blended,Kimia,Hadir,3,Non Beasiswa
+534,21,L,TE,SMA,1,Reguler,MTK,Alfa,4,Non Beasiswa
+535,22,P,TM,MA,2,Blended,Fisika,Izin,2,Non Beasiswa
+536,21,L,TI,SMK,1,Blended,Kimia,Izin,2,Non Beasiswa
+537,21,P,TM,MA,4,Blended,Fisika,Izin,3,Non Beasiswa
+538,22,P,TI,MA,6,Blended,Fisika,Alfa,3,Non Beasiswa
+539,19,L,TS,MA,2,Karyawan,MTK,Hadir,2,Non Beasiswa
+540,22,P,TM,MA,6,Reguler,Kimia,Izin,2,Non Beasiswa
+541,18,L,TI,SMK,4,Blended,MTK,Izin,3,Non Beasiswa
+542,21,P,TI,SMK,6,Karyawan,MTK,Izin,3,Beasiswa
+543,21,L,TE,SMK,8,Karyawan,MTK,Alfa,3,Beasiswa
+544,20,P,TI,MA,5,Reguler,MTK,Sakit,4,Beasiswa
+545,22,L,TI,MA,8,Blended,Kimia,Alfa,4,Beasiswa
+546,22,L,TS,SMA,8,Karyawan,MTK,Alfa,4,Non Beasiswa
+547,18,P,TS,SMA,2,Blended,Kimia,Sakit,3,Non Beasiswa
+548,22,P,TS,SMK,7,Reguler,Kimia,Hadir,3,Non Beasiswa
+549,21,L,TS,SMA,7,Blended,Kimia,Sakit,2,Beasiswa
+550,19,L,TI,MA,8,Blended,Fisika,Izin,2,Beasiswa
+551,19,L,TS,SMK,1,Blended,MTK,Izin,2,Beasiswa
+552,22,P,TI,MA,7,Reguler,Fisika,Izin,2,Beasiswa
+553,22,L,TE,SMA,1,Reguler,MTK,Alfa,4,Beasiswa
+554,19,P,TM,SMK,4,Reguler,MTK,Hadir,4,Beasiswa
+555,22,L,TI,SMK,8,Karyawan,Fisika,Hadir,4,Non Beasiswa
+556,22,P,TE,MA,6,Reguler,MTK,Izin,3,Non Beasiswa
+557,18,P,TS,MA,4,Karyawan,MTK,Alfa,2,Beasiswa
+558,19,P,TE,SMA,4,Reguler,MTK,Alfa,4,Beasiswa
+559,19,P,TI,SMA,3,Reguler,Fisika,Hadir,4,Non Beasiswa
+560,21,L,TS,SMA,7,Reguler,MTK,Hadir,2,Beasiswa
+561,22,L,TI,MA,2,Blended,Kimia,Alfa,3,Beasiswa
+562,22,L,TS,SMK,3,Reguler,Kimia,Alfa,2,Non Beasiswa
+563,22,P,TE,SMA,5,Blended,Fisika,Hadir,2,Non Beasiswa
+564,19,P,TI,MA,4,Karyawan,Fisika,Alfa,3,Non Beasiswa
+565,20,L,TS,SMA,4,Blended,Fisika,Sakit,2,Beasiswa
+566,22,L,TS,SMK,5,Blended,MTK,Izin,3,Beasiswa
+567,18,P,TE,MA,6,Reguler,MTK,Izin,2,Non Beasiswa
+568,21,L,TI,SMA,4,Blended,Fisika,Alfa,2,Beasiswa
+569,22,P,TI,MA,5,Reguler,Fisika,Sakit,3,Beasiswa
+570,19,P,TS,MA,7,Blended,Fisika,Alfa,4,Beasiswa
+571,22,L,TS,SMK,7,Blended,Kimia,Alfa,2,Beasiswa
+572,19,P,TS,MA,1,Reguler,MTK,Hadir,3,Beasiswa
+573,19,P,TI,SMA,4,Blended,Fisika,Izin,4,Beasiswa
+574,19,P,TM,SMK,7,Karyawan,MTK,Hadir,4,Beasiswa
+575,20,L,TS,MA,7,Blended,Fisika,Alfa,4,Non Beasiswa
+576,22,P,TE,SMK,7,Blended,Kimia,Alfa,4,Beasiswa
+577,19,P,TS,MA,8,Karyawan,MTK,Alfa,2,Non Beasiswa
+578,18,L,TI,SMA,5,Blended,MTK,Alfa,2,Beasiswa
+579,21,P,TS,SMA,4,Blended,Kimia,Hadir,2,Non Beasiswa
+580,19,P,TM,SMA,7,Blended,Kimia,Sakit,2,Non Beasiswa
+581,18,P,TS,SMA,5,Blended,Kimia,Izin,2,Non Beasiswa
+582,20,L,TI,SMA,5,Blended,MTK,Hadir,2,Non Beasiswa
+583,20,L,TI,SMK,4,Blended,MTK,Izin,2,Beasiswa
+584,18,P,TE,SMA,4,Reguler,MTK,Hadir,2,Non Beasiswa
+585,19,P,TI,SMA,2,Reguler,MTK,Izin,3,Non Beasiswa
+586,20,L,TI,SMA,6,Reguler,Kimia,Sakit,2,Beasiswa
+587,19,P,TE,SMA,5,Blended,Kimia,Alfa,3,Non Beasiswa
+588,19,L,TS,SMA,3,Karyawan,Fisika,Hadir,3,Beasiswa
+589,18,P,TI,SMK,8,Blended,Fisika,Hadir,4,Non Beasiswa
+590,19,L,TE,MA,8,Reguler,MTK,Alfa,4,Non Beasiswa
+591,18,L,TM,MA,4,Blended,Fisika,Izin,3,Beasiswa
+592,19,P,TI,SMK,1,Blended,Kimia,Izin,3,Non Beasiswa
+593,20,L,TI,SMA,6,Blended,Kimia,Hadir,2,Non Beasiswa
+594,19,P,TM,SMA,2,Reguler,Fisika,Alfa,4,Non Beasiswa
+595,22,L,TE,SMA,6,Reguler,MTK,Alfa,3,Non Beasiswa
+596,19,L,TI,SMA,1,Reguler,Kimia,Izin,2,Non Beasiswa
+597,18,P,TE,SMA,6,Reguler,Fisika,Hadir,3,Non Beasiswa
+598,21,P,TM,SMK,6,Karyawan,MTK,Alfa,2,Beasiswa
+599,22,L,TI,SMA,7,Reguler,Fisika,Sakit,3,Beasiswa
+600,21,P,TS,SMK,2,Karyawan,MTK,Hadir,3,Non Beasiswa
+601,19,P,TI,MA,2,Blended,MTK,Hadir,3,Beasiswa
+602,20,L,TE,MA,7,Karyawan,MTK,Alfa,2,Non Beasiswa
+603,19,P,TM,MA,4,Reguler,Kimia,Sakit,4,Beasiswa
+604,19,P,TI,SMK,7,Blended,Kimia,Alfa,2,Beasiswa
+605,21,L,TE,SMK,7,Karyawan,Kimia,Alfa,2,Non Beasiswa
+606,22,L,TE,SMK,3,Reguler,Kimia,Alfa,2,Beasiswa
+607,22,P,TM,MA,5,Reguler,Kimia,Hadir,2,Non Beasiswa
+608,20,P,TS,SMA,4,Reguler,Kimia,Izin,2,Non Beasiswa
+609,20,P,TI,MA,4,Blended,MTK,Izin,3,Non Beasiswa
+610,22,L,TI,SMK,2,Reguler,MTK,Hadir,4,Beasiswa
+611,21,L,TE,SMA,5,Reguler,Kimia,Izin,3,Non Beasiswa
+612,18,L,TE,MA,8,Blended,MTK,Izin,4,Beasiswa
+613,21,P,TM,SMA,5,Reguler,MTK,Hadir,3,Non Beasiswa
+614,22,L,TM,MA,1,Karyawan,Kimia,Izin,2,Non Beasiswa
+615,19,P,TI,MA,4,Karyawan,Kimia,Hadir,3,Beasiswa
+616,20,L,TS,MA,4,Karyawan,Fisika,Izin,3,Non Beasiswa
+617,18,P,TE,MA,4,Blended,Kimia,Sakit,3,Beasiswa
+618,22,P,TM,SMA,4,Blended,Kimia,Hadir,2,Beasiswa
+619,21,L,TE,MA,2,Karyawan,Fisika,Izin,2,Beasiswa
+620,18,P,TI,SMK,7,Karyawan,MTK,Alfa,4,Non Beasiswa
+621,22,L,TI,SMA,5,Karyawan,MTK,Sakit,3,Non Beasiswa
+622,19,P,TM,SMK,7,Blended,Kimia,Izin,3,Non Beasiswa
+623,19,P,TM,SMA,1,Reguler,MTK,Alfa,2,Non Beasiswa
+624,18,L,TI,MA,4,Reguler,Kimia,Sakit,2,Beasiswa
+625,20,L,TM,SMA,2,Reguler,Kimia,Alfa,3,Non Beasiswa
+626,19,L,TM,SMK,4,Reguler,MTK,Izin,2,Non Beasiswa
+627,18,L,TE,SMA,6,Blended,MTK,Izin,4,Beasiswa
+628,19,P,TM,MA,5,Karyawan,Fisika,Hadir,2,Beasiswa
+629,18,L,TS,SMA,2,Reguler,Fisika,Alfa,3,Beasiswa
+630,21,L,TI,MA,4,Reguler,Kimia,Izin,4,Non Beasiswa
+631,20,L,TM,SMA,8,Karyawan,Kimia,Sakit,4,Beasiswa
+632,20,P,TI,MA,8,Karyawan,Kimia,Alfa,2,Beasiswa
+633,22,P,TI,SMA,4,Blended,MTK,Hadir,4,Non Beasiswa
+634,21,P,TM,SMA,7,Reguler,MTK,Izin,3,Non Beasiswa
+635,21,L,TI,MA,7,Reguler,Kimia,Sakit,4,Beasiswa
+636,22,P,TM,MA,5,Blended,Fisika,Sakit,3,Non Beasiswa
+637,20,L,TS,SMK,2,Karyawan,Fisika,Izin,2,Beasiswa
+638,18,P,TM,SMA,7,Blended,MTK,Alfa,3,Beasiswa
+639,22,P,TS,SMK,2,Reguler,MTK,Hadir,3,Non Beasiswa
+640,19,P,TI,MA,3,Reguler,MTK,Hadir,3,Non Beasiswa
+641,22,P,TS,SMK,1,Blended,Kimia,Izin,2,Beasiswa
+642,22,L,TI,SMK,8,Karyawan,Kimia,Alfa,2,Non Beasiswa
+643,20,L,TS,SMK,6,Blended,MTK,Alfa,4,Beasiswa
+644,18,L,TS,SMK,3,Reguler,Fisika,Alfa,4,Non Beasiswa
+645,20,L,TE,SMA,5,Reguler,Fisika,Hadir,4,Beasiswa
+646,18,L,TE,SMA,5,Karyawan,MTK,Izin,3,Non Beasiswa
+647,20,P,TI,MA,8,Karyawan,Kimia,Sakit,4,Non Beasiswa
+648,21,P,TM,SMA,2,Blended,Kimia,Izin,2,Beasiswa
+649,18,L,TE,MA,3,Blended,Fisika,Alfa,2,Non Beasiswa
+650,20,P,TS,MA,2,Reguler,Fisika,Izin,2,Beasiswa
+651,21,P,TE,SMK,2,Blended,MTK,Hadir,4,Beasiswa
+652,20,P,TS,MA,1,Reguler,Kimia,Izin,4,Non Beasiswa
+653,19,P,TI,SMA,3,Karyawan,MTK,Hadir,4,Beasiswa
+654,22,P,TI,SMA,8,Reguler,Fisika,Izin,2,Non Beasiswa
+655,22,L,TS,SMK,6,Karyawan,MTK,Alfa,4,Beasiswa
+656,19,P,TM,SMK,4,Reguler,Kimia,Hadir,3,Beasiswa
+657,22,L,TM,SMK,2,Blended,Fisika,Izin,2,Non Beasiswa
+658,19,L,TS,SMK,1,Karyawan,Fisika,Sakit,4,Non Beasiswa
+659,22,L,TM,SMA,7,Karyawan,MTK,Alfa,3,Non Beasiswa
+660,19,L,TM,SMK,5,Blended,Fisika,Sakit,2,Beasiswa
+661,20,P,TI,SMK,6,Blended,Kimia,Alfa,3,Beasiswa
+662,22,L,TS,MA,7,Karyawan,Fisika,Sakit,2,Beasiswa
+663,20,P,TS,SMA,8,Karyawan,MTK,Hadir,4,Non Beasiswa
+664,18,P,TM,MA,1,Reguler,MTK,Izin,4,Beasiswa
+665,20,L,TI,MA,3,Reguler,Kimia,Alfa,3,Beasiswa
+666,20,P,TI,MA,4,Reguler,Kimia,Izin,3,Beasiswa
+667,21,P,TS,SMA,5,Blended,MTK,Hadir,2,Non Beasiswa
+668,18,P,TM,SMA,3,Reguler,Fisika,Sakit,4,Non Beasiswa
+669,21,L,TS,MA,2,Karyawan,Fisika,Alfa,4,Non Beasiswa
+670,22,P,TE,SMA,4,Reguler,Fisika,Alfa,2,Non Beasiswa
+671,22,P,TS,SMK,2,Karyawan,Kimia,Izin,2,Non Beasiswa
+672,22,P,TI,SMA,7,Blended,Fisika,Izin,2,Non Beasiswa
+673,21,P,TM,SMK,8,Karyawan,Fisika,Hadir,2,Beasiswa
+674,19,L,TI,MA,5,Blended,Fisika,Hadir,2,Non Beasiswa
+675,18,L,TM,SMA,1,Karyawan,Fisika,Hadir,4,Non Beasiswa
+676,18,L,TS,SMK,8,Karyawan,Fisika,Sakit,3,Non Beasiswa
+677,21,L,TS,SMK,1,Reguler,Fisika,Sakit,2,Beasiswa
+678,18,L,TE,SMA,1,Blended,Fisika,Alfa,3,Beasiswa
+679,21,P,TE,SMK,6,Karyawan,Kimia,Sakit,4,Beasiswa
+680,19,P,TS,SMA,1,Karyawan,Kimia,Izin,2,Non Beasiswa
+681,19,P,TS,SMA,4,Reguler,Kimia,Sakit,4,Non Beasiswa
+682,19,P,TI,SMK,4,Karyawan,Kimia,Sakit,3,Beasiswa
+683,21,P,TI,SMK,4,Blended,Kimia,Alfa,2,Beasiswa
+684,20,P,TI,SMA,7,Blended,MTK,Hadir,3,Non Beasiswa
+685,21,P,TM,MA,5,Karyawan,Fisika,Izin,4,Non Beasiswa
+686,18,P,TI,SMA,3,Reguler,Kimia,Sakit,3,Beasiswa
+687,19,P,TM,SMK,3,Karyawan,Fisika,Alfa,4,Beasiswa
+688,21,L,TE,MA,5,Karyawan,Kimia,Hadir,2,Beasiswa
+689,20,L,TI,SMK,1,Karyawan,Kimia,Hadir,3,Beasiswa
+690,22,P,TI,SMA,2,Reguler,Kimia,Sakit,4,Non Beasiswa
+691,21,P,TI,SMK,5,Blended,Fisika,Sakit,4,Non Beasiswa
+692,21,P,TS,MA,7,Karyawan,Kimia,Hadir,3,Non Beasiswa
+693,21,L,TE,MA,6,Blended,Fisika,Sakit,3,Beasiswa
+694,21,L,TM,SMA,3,Reguler,Fisika,Izin,2,Beasiswa
+695,21,P,TS,MA,8,Reguler,Fisika,Alfa,4,Non Beasiswa
+696,18,L,TM,SMK,4,Karyawan,Kimia,Izin,3,Beasiswa
+697,20,L,TI,SMA,2,Karyawan,MTK,Izin,2,Non Beasiswa
+698,21,L,TM,SMA,7,Reguler,Fisika,Alfa,4,Non Beasiswa
+699,21,L,TM,SMA,5,Karyawan,MTK,Alfa,2,Beasiswa
+700,18,P,TE,SMK,1,Karyawan,Fisika,Alfa,4,Non Beasiswa
+701,19,L,TM,SMA,2,Karyawan,Fisika,Izin,3,Beasiswa
+702,21,L,TI,SMK,1,Blended,Fisika,Sakit,3,Non Beasiswa
+703,21,P,TM,MA,6,Karyawan,Fisika,Hadir,4,Non Beasiswa
+704,21,P,TI,SMK,8,Reguler,Fisika,Izin,2,Beasiswa
+705,20,P,TM,MA,6,Reguler,Kimia,Alfa,2,Non Beasiswa
+706,21,L,TM,SMK,7,Karyawan,MTK,Alfa,2,Beasiswa
+707,21,L,TI,SMA,7,Blended,MTK,Izin,2,Beasiswa
+708,21,P,TM,SMK,6,Blended,MTK,Sakit,2,Beasiswa
+709,21,L,TI,SMA,4,Reguler,Kimia,Izin,3,Beasiswa
+710,18,P,TE,SMK,4,Reguler,Kimia,Hadir,3,Beasiswa
+711,18,P,TI,SMK,3,Karyawan,Fisika,Sakit,4,Non Beasiswa
+712,19,L,TM,SMK,1,Blended,MTK,Alfa,3,Beasiswa
+713,19,P,TI,SMK,7,Reguler,Fisika,Izin,4,Beasiswa
+714,20,L,TE,SMK,1,Reguler,MTK,Izin,2,Beasiswa
+715,22,P,TE,SMK,7,Reguler,Fisika,Sakit,2,Beasiswa
+716,20,P,TE,SMK,8,Karyawan,MTK,Izin,4,Non Beasiswa
+717,19,L,TE,SMA,3,Reguler,Fisika,Izin,2,Beasiswa
+718,20,L,TI,SMA,1,Blended,MTK,Sakit,2,Non Beasiswa
+719,19,P,TS,SMK,4,Blended,Fisika,Sakit,2,Beasiswa
+720,20,P,TE,SMK,5,Reguler,Fisika,Alfa,3,Non Beasiswa
+721,19,L,TE,SMA,1,Karyawan,Fisika,Alfa,3,Non Beasiswa
+722,19,L,TS,MA,6,Blended,Fisika,Hadir,2,Beasiswa
+723,21,P,TI,SMK,7,Karyawan,Kimia,Hadir,3,Non Beasiswa
+724,19,P,TS,MA,2,Karyawan,Fisika,Izin,2,Non Beasiswa
+725,22,P,TI,SMA,1,Reguler,MTK,Sakit,3,Non Beasiswa
+726,18,L,TM,SMK,5,Reguler,Kimia,Alfa,4,Non Beasiswa
+727,22,L,TS,SMA,6,Blended,Kimia,Alfa,2,Beasiswa
+728,19,L,TM,SMK,1,Reguler,Kimia,Alfa,4,Non Beasiswa
+729,19,L,TE,SMA,4,Blended,Kimia,Hadir,3,Beasiswa
+730,19,L,TI,SMA,8,Karyawan,Fisika,Alfa,3,Beasiswa
+731,21,L,TS,SMA,2,Blended,Fisika,Izin,4,Non Beasiswa
+732,21,P,TE,MA,3,Reguler,MTK,Sakit,3,Non Beasiswa
+733,19,P,TM,MA,4,Reguler,Fisika,Hadir,4,Non Beasiswa
+734,22,L,TI,SMA,5,Blended,MTK,Hadir,4,Non Beasiswa
+735,20,P,TE,SMK,8,Reguler,Fisika,Izin,3,Beasiswa
+736,19,P,TI,SMA,8,Blended,MTK,Sakit,3,Non Beasiswa
+737,18,P,TE,SMK,5,Karyawan,Kimia,Alfa,2,Beasiswa
+738,21,P,TE,SMK,4,Karyawan,Fisika,Sakit,4,Beasiswa
+739,20,L,TM,MA,7,Karyawan,Kimia,Hadir,2,Beasiswa
+740,21,L,TM,MA,1,Karyawan,MTK,Sakit,4,Non Beasiswa
+741,22,P,TS,MA,3,Blended,MTK,Hadir,2,Beasiswa
+742,22,P,TI,SMK,8,Reguler,MTK,Hadir,4,Non Beasiswa
+743,20,P,TI,SMK,3,Reguler,MTK,Hadir,3,Non Beasiswa
+744,21,L,TS,SMK,5,Blended,Fisika,Alfa,2,Non Beasiswa
+745,18,L,TI,MA,4,Karyawan,Fisika,Alfa,3,Non Beasiswa
+746,18,L,TE,MA,4,Blended,MTK,Izin,2,Beasiswa
+747,19,P,TI,SMK,7,Blended,Fisika,Sakit,3,Beasiswa
+748,22,L,TM,SMK,3,Reguler,Kimia,Izin,4,Beasiswa
+749,20,P,TE,SMK,7,Karyawan,MTK,Sakit,4,Non Beasiswa
+750,21,L,TI,MA,1,Blended,Kimia,Sakit,4,Non Beasiswa
+751,18,L,TS,MA,2,Blended,Fisika,Sakit,2,Beasiswa
+752,19,P,TS,MA,1,Karyawan,MTK,Sakit,2,Beasiswa
+753,18,P,TM,SMA,5,Blended,Fisika,Alfa,2,Beasiswa
+754,18,L,TM,MA,7,Reguler,MTK,Alfa,2,Beasiswa
+755,18,L,TI,SMK,3,Reguler,Fisika,Izin,2,Beasiswa
+756,22,L,TE,MA,1,Karyawan,Kimia,Alfa,3,Non Beasiswa
+757,19,L,TE,SMK,2,Blended,MTK,Alfa,3,Non Beasiswa
+758,20,L,TE,SMK,5,Karyawan,Fisika,Alfa,2,Beasiswa
+759,18,L,TS,SMA,6,Blended,MTK,Izin,3,Beasiswa
+760,22,L,TS,SMK,8,Blended,Fisika,Izin,2,Non Beasiswa
+761,22,P,TI,SMK,3,Blended,Fisika,Izin,2,Non Beasiswa
+762,22,L,TM,MA,2,Reguler,MTK,Hadir,2,Non Beasiswa
+763,18,L,TI,SMK,4,Reguler,Fisika,Sakit,4,Non Beasiswa
+764,19,L,TE,MA,8,Reguler,MTK,Izin,3,Non Beasiswa
+765,18,P,TM,MA,4,Karyawan,MTK,Izin,3,Non Beasiswa
+766,19,L,TE,SMK,3,Blended,Kimia,Sakit,3,Non Beasiswa
+767,21,P,TE,MA,2,Karyawan,Kimia,Izin,3,Beasiswa
+768,21,P,TE,SMK,6,Reguler,Fisika,Sakit,3,Non Beasiswa
+769,21,L,TM,MA,2,Karyawan,Kimia,Izin,3,Non Beasiswa
+770,21,P,TI,MA,7,Blended,Kimia,Alfa,4,Non Beasiswa
+771,20,P,TE,SMA,8,Karyawan,Kimia,Alfa,2,Non Beasiswa
+772,19,P,TI,MA,4,Blended,Kimia,Izin,4,Beasiswa
+773,21,L,TS,SMK,2,Reguler,MTK,Alfa,2,Non Beasiswa
+774,21,P,TM,MA,7,Blended,Fisika,Alfa,4,Non Beasiswa
+775,21,P,TI,SMA,2,Blended,Kimia,Hadir,3,Beasiswa
+776,19,L,TM,SMA,6,Blended,Fisika,Izin,3,Non Beasiswa
+777,21,P,TS,SMA,3,Blended,Fisika,Alfa,2,Beasiswa
+778,20,P,TS,SMK,7,Blended,Kimia,Hadir,3,Non Beasiswa
+779,20,L,TE,MA,7,Reguler,Fisika,Izin,3,Non Beasiswa
+780,18,L,TM,MA,2,Reguler,Kimia,Izin,3,Non Beasiswa
+781,18,P,TM,SMK,2,Blended,Fisika,Alfa,4,Non Beasiswa
+782,20,P,TE,SMA,2,Blended,MTK,Sakit,4,Beasiswa
+783,19,L,TS,SMK,4,Reguler,Kimia,Alfa,2,Beasiswa
+784,18,L,TS,SMA,6,Blended,MTK,Sakit,2,Beasiswa
+785,19,L,TS,SMA,1,Blended,Kimia,Izin,4,Beasiswa
+786,18,L,TE,SMA,7,Reguler,Fisika,Izin,3,Beasiswa
+787,18,L,TE,SMK,7,Karyawan,Kimia,Alfa,4,Beasiswa
+788,20,P,TE,MA,2,Karyawan,MTK,Alfa,2,Beasiswa
+789,21,P,TE,MA,4,Karyawan,MTK,Izin,4,Non Beasiswa
+790,18,L,TI,SMK,7,Blended,Kimia,Hadir,4,Beasiswa
+791,20,P,TM,SMA,4,Karyawan,Fisika,Izin,2,Beasiswa
+792,19,L,TS,SMA,5,Reguler,Kimia,Hadir,3,Beasiswa
+793,18,P,TS,SMA,6,Karyawan,Kimia,Izin,4,Beasiswa
+794,22,P,TS,SMA,5,Reguler,MTK,Alfa,2,Beasiswa
+795,19,P,TS,MA,3,Karyawan,Fisika,Hadir,3,Non Beasiswa
+796,18,P,TS,SMK,8,Karyawan,MTK,Alfa,2,Beasiswa
+797,19,P,TM,SMK,7,Reguler,Kimia,Izin,4,Beasiswa
+798,19,L,TS,SMK,3,Blended,MTK,Izin,3,Non Beasiswa
+799,18,L,TE,SMK,1,Karyawan,MTK,Hadir,3,Beasiswa
+800,20,L,TS,MA,5,Karyawan,Fisika,Hadir,3,Non Beasiswa
+801,18,P,TS,SMK,4,Reguler,MTK,Sakit,3,Non Beasiswa
+802,21,P,TI,SMA,7,Karyawan,Kimia,Hadir,2,Beasiswa
+803,21,P,TE,SMA,6,Blended,Kimia,Sakit,3,Beasiswa
+804,18,L,TE,SMA,3,Karyawan,MTK,Izin,3,Beasiswa
+805,22,P,TM,MA,8,Blended,Fisika,Alfa,4,Beasiswa
+806,21,L,TE,MA,2,Reguler,Fisika,Alfa,2,Beasiswa
+807,18,P,TE,SMA,7,Reguler,Kimia,Izin,4,Non Beasiswa
+808,20,P,TE,MA,6,Blended,Kimia,Sakit,4,Non Beasiswa
+809,19,L,TS,SMK,7,Reguler,Fisika,Izin,3,Beasiswa
+810,20,P,TM,SMK,7,Blended,Kimia,Alfa,4,Beasiswa
+811,21,P,TS,MA,7,Reguler,Fisika,Izin,4,Non Beasiswa
+812,18,P,TE,MA,2,Karyawan,MTK,Alfa,4,Non Beasiswa
+813,22,L,TE,MA,6,Karyawan,Fisika,Alfa,4,Beasiswa
+814,18,P,TE,MA,5,Blended,Kimia,Hadir,4,Beasiswa
+815,21,P,TI,SMA,5,Reguler,MTK,Izin,4,Beasiswa
+816,19,L,TI,SMA,7,Reguler,MTK,Alfa,2,Beasiswa
+817,18,P,TE,MA,3,Reguler,MTK,Alfa,4,Non Beasiswa
+818,22,L,TM,MA,4,Karyawan,Fisika,Izin,2,Beasiswa
+819,22,P,TS,SMA,6,Karyawan,MTK,Hadir,3,Beasiswa
+820,18,P,TE,MA,6,Blended,Kimia,Alfa,4,Non Beasiswa
+821,19,L,TI,SMA,8,Karyawan,Fisika,Sakit,2,Beasiswa
+822,19,P,TE,SMK,6,Blended,Fisika,Izin,2,Non Beasiswa
+823,21,L,TM,MA,6,Karyawan,Kimia,Hadir,4,Beasiswa
+824,18,P,TI,SMK,8,Blended,Fisika,Hadir,3,Beasiswa
+825,22,L,TI,SMK,6,Blended,MTK,Hadir,4,Non Beasiswa
+826,21,P,TE,SMA,1,Reguler,Fisika,Hadir,3,Beasiswa
+827,18,P,TM,SMK,2,Blended,Fisika,Hadir,3,Beasiswa
+828,22,P,TM,SMA,4,Reguler,MTK,Izin,2,Non Beasiswa
+829,21,L,TM,MA,5,Blended,Fisika,Hadir,3,Non Beasiswa
+830,22,L,TS,SMA,7,Reguler,Kimia,Izin,2,Non Beasiswa
+831,21,L,TS,MA,6,Blended,MTK,Alfa,3,Beasiswa
+832,20,P,TS,MA,2,Karyawan,Fisika,Hadir,4,Beasiswa
+833,22,L,TI,SMK,6,Blended,Fisika,Alfa,2,Beasiswa
+834,20,P,TE,SMK,5,Reguler,MTK,Alfa,3,Beasiswa
+835,21,P,TM,MA,2,Blended,Fisika,Izin,3,Non Beasiswa
+836,21,P,TS,MA,2,Blended,Fisika,Hadir,3,Beasiswa
+837,19,P,TM,MA,6,Blended,Fisika,Hadir,2,Non Beasiswa
+838,21,P,TI,MA,3,Blended,Fisika,Alfa,4,Non Beasiswa
+839,19,L,TI,SMA,6,Reguler,MTK,Izin,2,Beasiswa
+840,19,P,TS,SMA,8,Karyawan,Kimia,Hadir,4,Beasiswa
+841,19,L,TI,SMK,8,Reguler,Kimia,Izin,3,Beasiswa
+842,22,P,TS,MA,5,Blended,Fisika,Izin,4,Non Beasiswa
+843,20,L,TS,SMA,4,Blended,Kimia,Izin,4,Non Beasiswa
+844,20,P,TM,MA,6,Karyawan,MTK,Sakit,2,Non Beasiswa
+845,22,P,TE,SMA,4,Blended,MTK,Sakit,2,Beasiswa
+846,22,P,TE,MA,6,Blended,MTK,Alfa,2,Beasiswa
+847,21,P,TI,SMK,2,Reguler,MTK,Sakit,4,Beasiswa
+848,19,L,TM,SMA,7,Reguler,Fisika,Izin,2,Beasiswa
+849,22,L,TE,SMK,6,Karyawan,Fisika,Hadir,3,Non Beasiswa
+850,19,P,TS,SMA,7,Blended,Kimia,Hadir,4,Beasiswa
+851,22,L,TE,SMA,5,Reguler,MTK,Alfa,4,Non Beasiswa
+852,18,P,TS,SMK,2,Reguler,Fisika,Sakit,3,Non Beasiswa
+853,22,P,TS,MA,4,Blended,Fisika,Sakit,3,Beasiswa
+854,18,L,TS,MA,4,Reguler,Fisika,Sakit,4,Beasiswa
+855,18,L,TS,SMA,5,Karyawan,Kimia,Hadir,2,Beasiswa
+856,18,L,TI,MA,5,Reguler,Fisika,Sakit,3,Non Beasiswa
+857,22,P,TM,SMK,3,Reguler,Kimia,Hadir,2,Beasiswa
+858,19,L,TE,SMK,7,Reguler,Kimia,Izin,3,Non Beasiswa
+859,20,P,TS,MA,1,Reguler,Kimia,Hadir,3,Beasiswa
+860,18,P,TE,MA,8,Blended,Kimia,Sakit,3,Non Beasiswa
+861,20,P,TI,MA,8,Reguler,MTK,Izin,4,Non Beasiswa
+862,18,P,TM,SMK,4,Karyawan,Fisika,Sakit,3,Beasiswa
+863,21,L,TI,SMA,2,Reguler,Kimia,Hadir,3,Non Beasiswa
+864,18,P,TM,SMA,5,Karyawan,MTK,Alfa,4,Beasiswa
+865,18,L,TE,SMA,6,Reguler,Kimia,Hadir,2,Beasiswa
+866,18,L,TI,SMA,7,Blended,Kimia,Izin,3,Beasiswa
+867,19,P,TM,MA,6,Reguler,Kimia,Alfa,3,Non Beasiswa
+868,21,P,TM,MA,1,Reguler,Fisika,Izin,2,Non Beasiswa
+869,19,L,TM,SMA,2,Karyawan,Fisika,Sakit,3,Beasiswa
+870,19,L,TS,SMK,8,Blended,Kimia,Izin,4,Non Beasiswa
+871,18,P,TE,MA,1,Karyawan,MTK,Sakit,4,Non Beasiswa
+872,18,P,TI,SMA,3,Reguler,Kimia,Izin,4,Non Beasiswa
+873,18,L,TS,SMA,1,Karyawan,Fisika,Hadir,4,Non Beasiswa
+874,20,L,TI,MA,7,Blended,Fisika,Sakit,2,Non Beasiswa
+875,22,P,TS,MA,8,Reguler,MTK,Izin,3,Non Beasiswa
+876,22,P,TM,MA,8,Reguler,Kimia,Hadir,3,Non Beasiswa
+877,22,P,TM,SMK,6,Reguler,Fisika,Izin,3,Non Beasiswa
+878,19,P,TE,SMK,1,Blended,MTK,Izin,3,Beasiswa
+879,22,L,TS,SMK,2,Reguler,Fisika,Hadir,3,Non Beasiswa
+880,19,L,TM,MA,4,Karyawan,MTK,Izin,2,Beasiswa
+881,22,P,TM,SMK,2,Karyawan,MTK,Alfa,4,Beasiswa
+882,19,L,TS,SMK,7,Karyawan,Fisika,Sakit,4,Non Beasiswa
+883,20,L,TS,MA,2,Reguler,Kimia,Sakit,4,Beasiswa
+884,19,P,TS,SMA,5,Blended,Kimia,Hadir,3,Non Beasiswa
+885,19,L,TI,SMA,3,Reguler,Kimia,Alfa,3,Non Beasiswa
+886,22,P,TM,SMA,7,Karyawan,MTK,Sakit,3,Beasiswa
+887,20,P,TS,SMA,1,Reguler,Kimia,Alfa,2,Beasiswa
+888,20,L,TS,MA,1,Reguler,MTK,Alfa,3,Non Beasiswa
+889,19,L,TE,SMK,6,Reguler,Fisika,Alfa,2,Non Beasiswa
+890,18,L,TE,SMK,3,Karyawan,MTK,Izin,4,Non Beasiswa
+891,18,P,TE,SMK,2,Blended,Kimia,Hadir,3,Non Beasiswa
+892,20,L,TM,SMA,7,Blended,Kimia,Hadir,4,Non Beasiswa
+893,21,L,TM,MA,5,Karyawan,Kimia,Alfa,3,Beasiswa
+894,22,P,TM,SMK,6,Reguler,Kimia,Sakit,2,Beasiswa
+895,19,P,TS,SMK,5,Reguler,Fisika,Izin,3,Non Beasiswa
+896,21,P,TM,MA,1,Blended,Kimia,Izin,3,Beasiswa
+897,22,L,TM,MA,4,Karyawan,MTK,Hadir,3,Beasiswa
+898,18,P,TI,SMA,3,Reguler,Fisika,Alfa,2,Non Beasiswa
+899,21,P,TI,SMK,8,Karyawan,Kimia,Hadir,2,Non Beasiswa
+900,19,P,TS,MA,2,Reguler,MTK,Sakit,3,Non Beasiswa
+901,19,P,TI,SMK,1,Blended,Fisika,Alfa,3,Non Beasiswa
+902,22,L,TI,SMK,2,Karyawan,Fisika,Alfa,3,Non Beasiswa
+903,20,L,TE,SMK,1,Reguler,Fisika,Sakit,4,Beasiswa
+904,19,L,TE,SMK,7,Blended,MTK,Hadir,2,Non Beasiswa
+905,20,L,TS,SMK,7,Reguler,Fisika,Sakit,3,Beasiswa
+906,22,L,TM,SMK,8,Karyawan,Fisika,Alfa,4,Non Beasiswa
+907,21,P,TM,MA,4,Reguler,MTK,Izin,4,Non Beasiswa
+908,22,L,TI,SMK,1,Blended,MTK,Hadir,3,Beasiswa
+909,18,L,TM,SMA,1,Blended,MTK,Alfa,3,Beasiswa
+910,19,L,TS,SMK,4,Karyawan,Kimia,Izin,2,Non Beasiswa
+911,18,P,TI,MA,6,Karyawan,Fisika,Sakit,3,Beasiswa
+912,22,L,TS,MA,1,Karyawan,MTK,Alfa,4,Beasiswa
+913,21,L,TE,SMA,8,Reguler,MTK,Izin,3,Beasiswa
+914,22,P,TS,SMK,2,Blended,Kimia,Hadir,2,Non Beasiswa
+915,21,L,TS,SMA,7,Karyawan,Fisika,Sakit,2,Beasiswa
+916,19,P,TE,SMK,6,Reguler,Fisika,Sakit,2,Non Beasiswa
+917,21,P,TE,SMK,5,Blended,MTK,Alfa,3,Beasiswa
+918,22,L,TM,SMK,4,Reguler,MTK,Izin,4,Non Beasiswa
+919,21,L,TI,SMA,6,Blended,Fisika,Sakit,2,Non Beasiswa
+920,20,L,TS,SMK,5,Reguler,Fisika,Hadir,3,Non Beasiswa
+921,19,P,TI,SMK,3,Karyawan,Fisika,Sakit,2,Non Beasiswa
+922,19,L,TS,SMK,2,Karyawan,Fisika,Hadir,4,Beasiswa
+923,20,L,TS,SMK,4,Karyawan,Kimia,Hadir,3,Non Beasiswa
+924,21,L,TM,SMA,8,Karyawan,Fisika,Hadir,2,Beasiswa
+925,21,P,TM,SMK,7,Karyawan,Kimia,Sakit,2,Beasiswa
+926,21,L,TI,SMK,1,Karyawan,Fisika,Alfa,2,Non Beasiswa
+927,20,L,TM,MA,4,Karyawan,Kimia,Alfa,2,Non Beasiswa
+928,18,L,TI,SMA,3,Blended,Kimia,Alfa,4,Beasiswa
+929,22,P,TS,MA,2,Blended,Fisika,Izin,4,Non Beasiswa
+930,21,L,TS,SMA,7,Reguler,MTK,Hadir,4,Beasiswa
+931,20,P,TE,MA,2,Karyawan,Fisika,Hadir,4,Non Beasiswa
+932,21,L,TI,SMK,3,Karyawan,Kimia,Izin,4,Non Beasiswa
+933,20,P,TS,MA,3,Blended,Kimia,Izin,4,Non Beasiswa
+934,21,P,TS,SMA,5,Karyawan,Fisika,Sakit,4,Beasiswa
+935,20,L,TS,SMK,7,Karyawan,Fisika,Alfa,4,Beasiswa
+936,22,L,TM,MA,4,Karyawan,MTK,Alfa,3,Non Beasiswa
+937,22,L,TM,SMK,1,Blended,Fisika,Alfa,2,Non Beasiswa
+938,20,P,TS,SMA,1,Karyawan,Fisika,Izin,4,Non Beasiswa
+939,21,P,TE,MA,1,Karyawan,Kimia,Hadir,2,Beasiswa
+940,18,P,TI,MA,3,Karyawan,Kimia,Hadir,3,Non Beasiswa
+941,22,P,TS,MA,2,Blended,Fisika,Sakit,3,Beasiswa
+942,20,L,TE,MA,2,Reguler,Kimia,Alfa,3,Beasiswa
+943,21,P,TI,SMK,3,Blended,MTK,Izin,3,Non Beasiswa
+944,18,L,TS,SMA,5,Reguler,MTK,Sakit,3,Beasiswa
+945,21,L,TE,MA,7,Reguler,MTK,Hadir,4,Beasiswa
+946,22,L,TM,SMK,8,Karyawan,Fisika,Alfa,4,Beasiswa
+947,22,P,TS,SMK,5,Karyawan,MTK,Hadir,3,Non Beasiswa
+948,22,P,TS,SMA,7,Reguler,Fisika,Sakit,2,Beasiswa
+949,22,P,TE,SMA,6,Blended,Fisika,Alfa,3,Non Beasiswa
+950,19,P,TM,MA,7,Reguler,Fisika,Sakit,4,Beasiswa
+951,20,L,TI,MA,2,Reguler,Kimia,Izin,2,Beasiswa
+952,19,L,TS,MA,4,Reguler,MTK,Sakit,2,Non Beasiswa
+953,19,L,TI,SMK,6,Karyawan,Kimia,Alfa,3,Non Beasiswa
+954,21,L,TM,MA,2,Karyawan,MTK,Hadir,3,Non Beasiswa
+955,21,P,TS,SMK,3,Karyawan,MTK,Izin,4,Beasiswa
+956,22,L,TM,SMA,4,Karyawan,Fisika,Alfa,2,Non Beasiswa
+957,20,P,TI,MA,6,Reguler,Kimia,Sakit,2,Beasiswa
+958,21,L,TS,MA,8,Reguler,Kimia,Izin,4,Beasiswa
+959,21,L,TE,MA,8,Karyawan,Kimia,Sakit,2,Non Beasiswa
+960,22,P,TM,SMA,3,Blended,Fisika,Alfa,3,Non Beasiswa
+961,18,L,TM,SMA,4,Karyawan,MTK,Hadir,3,Beasiswa
+962,21,L,TS,MA,4,Reguler,Fisika,Sakit,4,Beasiswa
+963,21,P,TI,MA,8,Blended,Kimia,Izin,4,Non Beasiswa
+964,22,P,TE,SMK,1,Reguler,MTK,Sakit,2,Beasiswa
+965,19,L,TM,MA,6,Karyawan,Fisika,Izin,3,Non Beasiswa
+966,19,L,TE,MA,4,Reguler,Fisika,Sakit,3,Non Beasiswa
+967,21,L,TM,MA,3,Karyawan,Fisika,Izin,2,Beasiswa
+968,22,L,TM,MA,3,Karyawan,MTK,Sakit,3,Non Beasiswa
+969,19,L,TM,SMA,3,Reguler,Kimia,Sakit,2,Non Beasiswa
+970,19,L,TM,SMA,8,Blended,MTK,Sakit,2,Non Beasiswa
+971,19,L,TE,SMA,7,Blended,Fisika,Sakit,2,Non Beasiswa
+972,18,L,TE,SMK,7,Reguler,Kimia,Sakit,4,Beasiswa
+973,21,P,TM,SMK,4,Blended,MTK,Alfa,4,Beasiswa
+974,20,P,TM,SMA,8,Karyawan,Kimia,Izin,3,Non Beasiswa
+975,18,L,TS,SMA,1,Blended,Fisika,Alfa,2,Non Beasiswa
+976,18,P,TE,MA,7,Reguler,MTK,Izin,4,Beasiswa
+977,21,L,TM,SMA,5,Reguler,Kimia,Izin,2,Beasiswa
+978,21,P,TM,SMA,8,Karyawan,MTK,Hadir,2,Non Beasiswa
+979,21,P,TI,SMA,3,Blended,Fisika,Hadir,2,Non Beasiswa
+980,19,P,TI,SMA,4,Karyawan,Fisika,Hadir,3,Beasiswa
+981,19,P,TI,SMA,7,Karyawan,Kimia,Sakit,3,Beasiswa
+982,21,L,TI,SMA,2,Reguler,Kimia,Sakit,2,Beasiswa
+983,20,L,TI,SMA,4,Karyawan,Fisika,Hadir,4,Beasiswa
+984,18,P,TS,SMK,8,Karyawan,MTK,Izin,2,Beasiswa
+985,19,L,TM,SMK,5,Blended,Fisika,Sakit,4,Non Beasiswa
+986,22,L,TS,SMK,1,Blended,Kimia,Izin,2,Non Beasiswa
+987,19,P,TM,MA,5,Blended,Kimia,Izin,3,Non Beasiswa
+988,18,P,TE,MA,2,Karyawan,Kimia,Izin,4,Beasiswa
+989,18,L,TI,MA,4,Reguler,Kimia,Hadir,3,Non Beasiswa
+990,18,P,TS,SMK,8,Blended,MTK,Alfa,2,Beasiswa
+991,19,P,TI,SMK,3,Reguler,Kimia,Alfa,4,Non Beasiswa
+992,18,L,TE,MA,6,Blended,Fisika,Hadir,3,Beasiswa
+993,19,P,TM,SMK,8,Reguler,Fisika,Izin,3,Beasiswa
+994,18,L,TM,MA,6,Blended,MTK,Alfa,2,Beasiswa
+995,20,L,TM,SMA,7,Blended,Kimia,Izin,2,Beasiswa
+996,19,L,TM,SMK,4,Karyawan,Kimia,Izin,3,Non Beasiswa
+997,22,P,TE,SMA,6,Reguler,MTK,Alfa,2,Beasiswa
+998,20,P,TS,SMA,8,Reguler,MTK,Sakit,3,Beasiswa
+999,22,P,TS,SMK,1,Reguler,Fisika,Hadir,2,Beasiswa
