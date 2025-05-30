@@ -1,7 +1,7 @@
 from modul.pemilih import get_pemilih, set_sudah_memilih
 from modul.calon import get_calon, tambah_suara
 
-def proses_voting(id_pemilih, id_calon):
+def lakukan_voting(id_pemilih, id_calon):
     pemilih = get_pemilih(id_pemilih)
     if not pemilih:
         return "ID Pemilih tidak ditemukan."

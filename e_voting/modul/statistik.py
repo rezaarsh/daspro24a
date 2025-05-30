@@ -1,7 +1,7 @@
 from modul.pemilih import jumlah_pemilih, jumlah_sudah_memilih
 from modul.calon import calon_terbanyak
 
-def tampil_statistik():
+def tampilkan_statistik():
     total = jumlah_pemilih()
     sudah = jumlah_sudah_memilih()
     persen = (sudah / total * 100) if total else 0

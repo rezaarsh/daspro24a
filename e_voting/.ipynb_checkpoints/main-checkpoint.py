@@ -2,18 +2,19 @@ from modul import pemilih, calon, voting, statistik
 
 def menu():
     while True:
-        print("\n=== E-Voting Ketua Organisasi Mahasiswa ===")
-        print("1. Tambah Pemilih")
-        print("2. Tambah Calon")
+        print("\n==== Sistem E-Voting ====")
+        print("1. Daftar Pemilih")
+        print("2. Daftar Calon Ketua")
         print("3. Voting")
-        print("4. Lihat Hasil Sementara")
+        print("4. Tampilkan Hasil Sementara")
         print("5. Statistik Pemilu")
-        print("0. Keluar")
-        pilihan = input("Pilih menu: ")
+        print("6. Keluar")
+        
+        pilihan = input("Pilih menu (1-6): ")
 
         if pilihan == "1":
             id = input("ID Pemilih: ")
-            nama = input("Nama: ")
+            nama = input("Nama Pemilih: ")
             jurusan = input("Jurusan: ")
             if pemilih.tambah_pemilih(id, nama, jurusan):
                 print("Pemilih ditambahkan.")
@@ -21,17 +22,17 @@ def menu():
                 print("ID sudah terdaftar.")
 
         elif pilihan == "2":
-            id = input("ID Calon: ")
-            nama = input("Nama: ")
+            id = input("ID Calon Ketua: ")
+            nama = input("Nama Calon Ketua: ")
             visi = input("Visi Misi: ")
             if calon.tambah_calon(id, nama, visi):
-                print("Calon ditambahkan.")
+                print("Calon Ketua berhasil ditambahkan.")
             else:
                 print("ID sudah terdaftar.")
 
         elif pilihan == "3":
             id_pemilih = input("ID Pemilih: ")
-            id_calon = input("ID Calon: ")
+            id_calon = input("ID Calon Ketua: ")
             print(voting.proses_voting(id_pemilih, id_calon))
 
         elif pilihan == "4":
@@ -51,7 +52,7 @@ def menu():
             else:
                 print("Belum ada suara masuk.")
 
-        elif pilihan == "0":
+        elif pilihan == "6":
             break
         else:
             print("Pilihan tidak valid.")

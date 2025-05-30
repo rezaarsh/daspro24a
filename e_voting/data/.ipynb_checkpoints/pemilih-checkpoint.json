@@ -28,11 +28,5 @@
         "nama": "a",
         "jurusan": "s",
         "sudah_memilih": true
-    },
-    {
-        "id": "10",
-        "nama": "Reza",
-        "jurusan": "TI",
-        "sudah_memilih": true
     }
 ]
